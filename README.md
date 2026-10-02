@@ -1,19 +1,25 @@
 # smart-desk-timer
-A small programmable desk timer with buttons, a display, and a buzzer. It will let me start, pause, reset, and set a countdown timer. I want to design the electronics and make my own compact enclosure for it.
+
+A tiny cheap programmable desk timer, buttons, display and buzzer. It will allow me to start, pause and reset an existing countdown timer, as well as set the countdown. I want to build the electronics and create my own case for it.
 
 ## What I Learned
 
 ### Microcontroller
-A microcontroller is a small computer that can run a program and control eleectronic components.
+
+A microcontroller is a tiny computer that executes a program and drives electronic parts.
 
 ### OLED Display
-An OLED display can show information from the microcontroller, such as the reamaing time.
+
+The OLED display can be used to display the amount of time left from the microcontroller.
 
 ### Push Buttons
-Push buttons can be used as inputs so the user can control timer.
+
+Push button -For the entering the values of time. Push button -For the activating the timer when press the switch.
 
 ### Buzzer
-A buzzer can make a sound when the timer reaches zero.
+
+When the timer hits 0, a buzzer can ring.
 
 ### Breadboard
-A breadboard lets me connect electronic components without permanetly soldering them together.
+
+A breadboard allows me to easily connect various electronic parts together in a temporary fashion without permanently soldering the parts.
